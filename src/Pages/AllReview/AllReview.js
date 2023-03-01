@@ -12,7 +12,7 @@ const AllReview = () => {
         <div className='my-10 py-8'>
             <div className='text-center mt-10 mb-5'>
 
-                <p className='text-5xl font-bold'>Customers Review</p>
+                <p className='text-5xl font-bold'>WHAT PEOPLE SAY</p>
                 <p className='text-xl font-semibold'>**************</p>
                 <p className='text-3xl font-bold'>Customers Review</p>
             </div>

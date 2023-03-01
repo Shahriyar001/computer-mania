@@ -2,25 +2,25 @@
     {
         "post_id": "1",
         "title": "EXPERIENCE",
-        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.",
+        "description": "Experience is essential in our lives. It can be defined as the knowledge or skills gained through participation in events, activities, or situations. Experiences help us to learn, grow and develop, both personally and professionally. They shape our perspectives, influence our decisions, and help us to connect with others. Experiences can be challenging, but they offer opportunities for personal growth and learning. Through experiences, we gain a deeper understanding of ourselves and the world around us, which can lead to a more fulfilling life.",
         "img": "https://i.ibb.co/CWYTBF6/Exenceperi1.jpg"
     },
     {
         "post_id": "2",
         "title": "SKILL",
-        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.",
+        "description": "Having skills is crucial for success in any area of life. It is through skills that we can perform tasks efficiently and effectively. Skills enable us to solve problems, make decisions, and achieve our goals. They are necessary for both personal and professional growth, as they provide us with the tools we need to excel in our chosen fields. Whether it's communication, leadership, or technical abilities, honing our skills is essential. Skills are an asset that can set us apart from others and help us achieve our desired outcomes.",
         "img": "https://i.ibb.co/1fHpSTz/skill1.jpg"
     },
     {
         "post_id": "3",
         "title": "QUALITY",
-        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.",
+        "description": "Quality is important in every aspect of life, whether it's in products, services or relationships. The pursuit of quality ensures that we receive the best value for our investment, and it also ensures our safety and satisfaction. A focus on quality requires attention to detail, commitment to excellence, and a willingness to continuously improve. When we prioritize quality, we build trust and credibility, and we create a foundation for long-term success. Ultimately, quality is not just a measure of what we produce or provide; it is a reflection of who we are and what we stand for.",
         "img": "https://i.ibb.co/gjrj1Zb/Quality.jpg"
     },
     {
         "post_id": "4",
         "title": "GUARANTEES",
-        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.",
+        "description": "This guarantee ensures that customers receive quality service and satisfaction with the service they receive. Service guarantees typically include specific promises, such as a refund if the service is not up to par, or a commitment to resolving any issues promptly. By offering a service guarantee, providers build trust with their customers, which can result in increased loyalty and positive word-of-mouth marketing. A service guarantee is a promise made by a service provider to meet specific expectations of their customers.",
         "img": "https://i.ibb.co/GtpF7dJ/Guarantee.jpg"
     }
 ]

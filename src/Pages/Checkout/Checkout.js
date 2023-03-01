@@ -3,7 +3,7 @@ import { useLoaderData } from 'react-router-dom';
 import { AuthContext } from '../../contexts/AuthProvider/AuthProvider';
 
 const Checkout = () => {
-    const { _id, title, price } = useLoaderData();
+    const { _id, title, price, img, description } = useLoaderData();
     const { user } = useContext(AuthContext);
 
     const handlePlaceOrder = event => {
@@ -50,8 +50,16 @@ const Checkout = () => {
     return (
         <div>
             <form onSubmit={handlePlaceOrder}>
-                <h2 className='text-4xl'>{title}</h2>
-                <h4 className='text-3xl'>Price: {price}</h4>
+                <div className="hero">
+                    <div className="hero-content flex-col lg:flex-row-reverse">
+                        <img src={img} alt="" className="w-full rounded-lg shadow-2xl" />
+                        <div>
+                            <h1 className="text-5xl font-bold"> You are booking {title} service.</h1>
+                            <p className="py-2 text-xl">{description}</p>
+                            <p className="py-2 text-xl">{price}</p>
+                        </div>
+                    </div>
+                </div>
                 <div className='grid grid-cols-1 lg:grid-cols-2 gap-4 my-5'>
                     <input name='firstName' type="text" placeholder="First Name" className="input input-bordered w-full " />
                     <input name='lastName' type="text" placeholder="Last Name" className="input input-bordered w-full " />

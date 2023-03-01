@@ -1,0 +1,38 @@
+[
+    {
+        "post_id": "1",
+        "title": "Laptop M580Z",
+        "img": "https://i.ibb.co/S7m8VX4/laptop.jpg",
+        "price": "$ 120"
+    },
+    {
+        "post_id": "2",
+        "title": "Mouse FR-01",
+        "img": "https://i.ibb.co/F7qdzMw/mouse.jpg",
+        "price": "$ 20"
+    },
+    {
+        "post_id": "3",
+        "title": "HDD 3TB",
+        "img": "https://i.ibb.co/TwjT3tY/HDD.jpg",
+        "price": "$ 30"
+    },
+    {
+        "post_id": "4",
+        "title": "Flash 128GB",
+        "img": "https://i.ibb.co/5x5fmgS/pandrive.jpg",
+        "price": "$ 10"
+    },
+    {
+        "post_id": "5",
+        "title": "Earbuds N11",
+        "img": "https://i.ibb.co/1M89Rqb/earphone.jpg",
+        "price": "$ 10"
+    },
+    {
+        "post_id": "6",
+        "title": "Video cable PSC100",
+        "img": "https://i.ibb.co/DWmFG57/cable.jpg",
+        "price": "$ 10"
+    }
+]

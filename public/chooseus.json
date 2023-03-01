@@ -1,0 +1,26 @@
+[
+    {
+        "post_id": "1",
+        "title": "EXPERIENCE",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.",
+        "img": "https://i.ibb.co/CWYTBF6/Exenceperi1.jpg"
+    },
+    {
+        "post_id": "2",
+        "title": "SKILL",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.",
+        "img": "https://i.ibb.co/1fHpSTz/skill1.jpg"
+    },
+    {
+        "post_id": "3",
+        "title": "QUALITY",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.",
+        "img": "https://i.ibb.co/gjrj1Zb/Quality.jpg"
+    },
+    {
+        "post_id": "4",
+        "title": "GUARANTEES",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.",
+        "img": "https://i.ibb.co/GtpF7dJ/Guarantee.jpg"
+    }
+]

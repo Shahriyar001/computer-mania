@@ -1,0 +1,44 @@
+[
+    {
+        "post_id": "1",
+        "title": "Data Recovery",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.",
+        "img": "https://i.ibb.co/vkCr1m6/hard-disk-1071668-19201-470x313.jpg",
+        "price": "$ 20"
+    },
+    {
+        "post_id": "2",
+        "title": "MacBook Repair",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.",
+        "img": "https://i.ibb.co/prZj633/Macbook.jpg",
+        "price": "$ 30"
+    },
+    {
+        "post_id": "3",
+        "title": "Battery Replacement",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.",
+        "img": "https://i.ibb.co/4Jw18tM/battery.jpg",
+        "price": "$ 28"
+    },
+    {
+        "post_id": "4",
+        "title": "Laptop Repair",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.",
+        "img": "https://i.ibb.co/BPjwpQd/laptop.jpg",
+        "price": "$ 40"
+    },
+    {
+        "post_id": "5",
+        "title": "Screen Replacement",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.",
+        "img": "https://i.ibb.co/GHF2VKK/screen.jpg",
+        "price": "$ 15"
+    },
+    {
+        "post_id": "6",
+        "title": "Virus Protection",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere maiores nulla ipsam ad earum ducimus.",
+        "img": "https://i.ibb.co/tQ6RzGJ/virus.jpg",
+        "price": "$ 35"
+    }
+]

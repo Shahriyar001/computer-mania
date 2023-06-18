@@ -7,6 +7,10 @@ import Game from '../Game/Game';
 import Products from '../Product/Products';
 import Records from '../Records/Records';
 import Services from '../Services/Services';
+import MobileSer from '../MobileService/MobileSer';
+import VideoSec from '../VideoSec/VideoSec';
+import Faq from '../FAQ/Faq';
+import ContactUs from '../ContactUs/ContactUs';
 
 const Home = () => {
     return (
@@ -17,8 +21,12 @@ const Home = () => {
             <ChooseUs></ChooseUs>
             <Records></Records>
             <AllReview></AllReview>
+            <MobileSer></MobileSer>
+            <VideoSec></VideoSec>
             <Products></Products>
             <Game></Game>
+            <Faq></Faq>
+            <ContactUs></ContactUs>
         </div>
     );
 };

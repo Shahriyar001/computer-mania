@@ -29,7 +29,7 @@ const router = createBrowserRouter([
             {
                 path: '/checkout/:id',
                 element: <PrivateRoute><Checkout></Checkout></PrivateRoute>,
-                loader: ({ params }) => fetch(`http://localhost:5000/services/${params.id}`)
+                loader: ({ params }) => fetch(`https://computer-mania-server.vercel.app/services/${params.id}`)
             },
             {
                 path: '/orders',
@@ -38,7 +38,7 @@ const router = createBrowserRouter([
             {
                 path: '/review/:id',
                 element: <Review></Review>,
-                loader: ({ params }) => fetch(`http://localhost:5000/services/${params.id}`)
+                loader: ({ params }) => fetch(`https://computer-mania-server.vercel.app/services/${params.id}`)
             }
         ]
     }
